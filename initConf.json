@@ -1,0 +1,24 @@
+{
+	"applications": [
+		{
+			"topButtonName": "App part 1",
+			"sideButtonName": ["Commit", "Messages", "Status", "State", "Server"],
+			"filter": ["Commit", "message", "status", "state", "server"]
+		},
+		{
+			"topButtonName": "Installation log",
+			"sideButtonName": ["Installation f1", "Installation f2", "Installation f3", "Installation f4", "Installation f5"],
+			"filter": ["InstallerFilter1", "InstallerFilter2", "InstallerFilter3", "InstallerFilter4", "InstallerFilter5"]
+		},
+		{
+			"topButtonName": "Config log",
+			"sideButtonName": ["Config f1", "Config f2", "Config f3", "Config f4", "Config f5"],
+			"filter": ["ConfigFilter1", "ConfigFilter2", "ConfigFilter3", "ConfigFilter4", "ConfigFilter5"]
+		},
+		{
+			"topButtonName": "CC up log",
+			"sideButtonName": ["CC f1", "CC f2", "CC f3", "CC f4", "CC f5"],
+			"filter": ["CcFilter1", "CcFilter2", "CcFilter3", "CcFilter4", "CcFilter5"]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "applications": [
+    {
+      "topButtonName": "TopMenu1",
+      "sideButtonName": ["SideMenu1", "SideMenu2", "SideMenu3"],
+      "filter": ["filter1", "filter2", "filter3"]
+    },
+    {
+      "topButtonName": "TopMenu2",
+      "sideButtonName": ["SideMenu1", "SideMenu2"],
+      "filter": ["filter1", "filter2"]
+    }
+  ]
+}
